@@ -30,19 +30,20 @@
 
 ## Results
 
-  We have created multiple models with differentt architecture like VGG16, Custom CNN, ResNEt, EficientNet. the ResNet gave a better accuracy rate of 82% and validation accuracy of 80% compared to others.
+  We have created multiple models with differentt architecture like VGG16, Custom CNN, ResNet, EfficientNet. the ResNet gave a better accuracy rate of 85% and validation accuracy of 84% compared to others.
 
-### Training loss Vs Validation loss
+### Accuracy and Loss Graph
 
-![WhatsApp Image 2023-10-22 at 08 19 33](https://github.com/vincent-isaac/IBM_Datathon2023/assets/75234588/73e9f5f0-9cc3-45c7-8581-5c162b841d0c)
+![alt text](image/image.png)
 
-### Training accuracy Vs Validation accuracy
-
-![WhatsApp Image 2023-10-22 at 08 19 27](https://github.com/vincent-isaac/IBM_Datathon2023/assets/75234588/814d4a84-8c13-40f5-a447-58e7d736eb0d)
 
 ### Classification Report
 
-![WhatsApp Image 2023-10-22 at 08 19 57](https://github.com/vincent-isaac/IBM_Datathon2023/assets/75234588/ab0b67ed-8ca5-4636-84ab-c39fdcaff72a)
+![alt text](image/image-1.png)
+
+### Model Performance Benchmark
+
+![alt text](image/image-2.png)
 
 ## Future implementation
 
@@ -58,5 +59,5 @@
 
 ## Conclusion 
 
-  ResNet or Residual neural network produced better accuracy of 0.82 than CNN with an accuracy of 0.69 and Efficient Net model which produced an accuracy of 0.56. ResNet overcomes the "vanishing gradient" problem, making it possible to construct networks with up to thousands of convolutional layers. These networks outperform shallower networks. In conclusion, the implementation of severity grading of osteoarthritis using deep learning represents a significant advancement in healthcare and medical research.
+  ResNet or Residual neural network produced better accuracy of 0.84 than CNN with an accuracy of 0.70 and Efficient Net model which produced an accuracy of 0.70. ResNet overcomes the "vanishing gradient" problem, making it possible to construct networks with up to thousands of convolutional layers. These networks outperform shallower networks. In conclusion, the implementation of severity grading of osteoarthritis using deep learning represents a significant advancement in healthcare and medical research.
 
